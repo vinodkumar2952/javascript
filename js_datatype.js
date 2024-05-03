@@ -25,4 +25,4 @@ console.log(typeof((myId)))
 let statement="name"
 console.log(statement)
 let statement=98756
-console.log(statement)
+console.log(statement) //same variable cannot redeclare in scope
