@@ -4,4 +4,4 @@
 let a="asdf";
 let b="29";
 let c="delhi";
-console.table["a","b","c"];
+console.table([a,b,c])
